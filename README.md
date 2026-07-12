@@ -19,3 +19,95 @@
 [![](https://komarev.com/ghpvc/?username=Voletiakash&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+Hi, I'm Akash Voleti 👋
+
+Java Developer (Fresher) | Aspiring Backend Engineer | Spring Boot Learner
+
+I'm an entry-level Java developer from Kakinada, India, building a strong foundation in Core Java, OOP, and backend development, and currently expanding into the Spring / Spring Boot ecosystem. I'm actively seeking opportunities to contribute as a Java Developer and grow within a development team.
+
+
+🧑‍💻 About Me
+
+
+🎓 Fresher with hands-on project experience in Java, data structures, and application design
+💼 Actively looking for Java Developer / Software Engineer (Entry-Level) roles
+🔭 Currently deepening my skills in Spring Framework, Spring Boot, REST APIs, and JPA/Hibernate
+🧩 Comfortable with the full development cycle: designing, coding, debugging, and documenting
+🛠️ Strong troubleshooting mindset — I focus on identifying root causes, not just quick patches
+🌱 Learning goal: build and deploy a complete Spring Boot REST API backed by a database
+🤝 Open to internships, junior developer roles, and collaborative open-source contributions
+📍 Based in Kakinada, Andhra Pradesh, India
+
+
+
+🛠️ Technical Skills
+
+Languages
+
+Java | Python (basic) | SQL
+
+Frameworks & Tools
+
+Spring (Learning) | Spring Boot (Learning) | JDBC | Git & GitHub
+
+Concepts
+
+Object-Oriented Programming | Data Structures & Algorithms | 
+REST API Fundamentals | Database Design (CRUD operations)
+
+<p>
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</p>
+
+📂 Projects
+
+Student Data Management System
+
+A Java-based CRUD application for managing student records, covering core OOP principles and database interaction fundamentals.
+Tech: Java, JDBC
+Status: Planned rebuild using Spring Boot + Spring Data JPA to demonstrate backend framework skills.
+
+Snake Game (Tkinter)
+
+A classic Snake game built to practice logic building, event handling, and GUI programming fundamentals.
+Tech: Python, Tkinter
+
+(More Java/Spring Boot projects coming soon as part of ongoing learning.)
+
+
+🎯 What I'm Working Towards
+
+
+ Build a REST API using Spring Boot
+ Integrate Spring Data JPA with MySQL/PostgreSQL
+ Implement authentication using Spring Security
+ Deploy a full Spring Boot application (Docker/cloud basics)
+ Contribute to an open-source Java project
+
+
+
+📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Voletiakash&show_icons=true&theme=default&count_private=true" alt="Akash's GitHub Stats" />
+</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Voletiakash" alt="GitHub Streak" />
+</p>
+
+📫 Connect With Me
+
+
+📍 Kakinada, Andhra Pradesh, India
+💼 Open to Java Developer / Fresher roles and internships
+📧 Reach out via GitHub or connect on LinkedIn (add your LinkedIn URL here)
+📄 Resume available on request (optionally link it here)
+
+
+
+<p align="center"><i>Thanks for visiting my profile — always open to feedback, collaboration, and new opportunities.</i></p>
